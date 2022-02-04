@@ -11,13 +11,4 @@ project:
     member1:
       name: 'Ryan'
       surname: 'Garay'
-      githubUsername: 'ryan-garay89'
-    member2:
-      name: 'Kin Long'
-      surname: 'Lo'
-      githubUsername: 'KLongLo'
-    member3:
-      name: 'Haolan'
-      surname: 'Mo'
-      githubUsername: 'HaolanMo'    
-    
+      githubUsername: 'ryan-garay89'    
