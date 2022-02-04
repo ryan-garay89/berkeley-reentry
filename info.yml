@@ -1,7 +1,7 @@
 project:
-  name: 'berkeley reentry'
-  owner: 'Kenneth Martinez, Director, Reentry Student Program'
-  teamId: '4'
+  name: 'q2q'
+  owner: 'CS169L-22'
+  teamId: 'Berkeley Reentry Student Program'
   identities:
     pivotal: 'https://www.pivotaltracker.com/projects/2552937'
     heroku: 'https://berkeleyreentry.herokuapp.com/'
