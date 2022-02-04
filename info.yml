@@ -3,18 +3,21 @@ project:
   owner: 'Kenneth Martinez, Director, Reentry Student Program'
   teamId: '4'
   identities:
-    pivotal: 'https://www.pivotaltracker.com/projects/2552937/memberships'
+    pivotal: 'https://www.pivotaltracker.com/projects/2552937'
     heroku: 'https://berkeleyreentry.herokuapp.com/'
     travis: 'https://app.travis-ci.com/github/ryan-garay89/berkeley-reentry'
     codeclimate: 'https://codeclimate.com/github/ryan-garay89/berkeley-reentry'
   members:
     member1:
-      name: 'Ryan Garay'
+      name: 'Ryan'
+      surname: 'Garay'
       githubUsername: 'ryan-garay89'
     member2:
-      name: 'Kin Long Lo'
+      name: 'Kin Long'
+      surname: 'Lo'
       githubUsername: 'KLongLo'
     member3:
-      name: 'Haolan Mo'
+      name: 'Haolan'
+      surname: 'Mo'
       githubUsername: 'HaolanMo'    
     
